@@ -42,7 +42,7 @@ A web application to predict diabetes risk using XGBoost, built with Django for 
 # Clone the repository
 git clone https://github.com/Aaryan012/Diabetes-Prediction-System.git
 cd diabetes-prediction-system
-
+```
 ## Screenshot
 
 ![Diabetes Prediction System](images/1st.png)
